@@ -1,0 +1,17 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #d47ae8;
+}
+
+#projects {
+  background-color: #d47ae8;
+}
+
+#pendidikan {
+  min-height: 2000px;
+  text-align: center;
+}
